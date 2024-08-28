@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Technologies and Freelancing Projects**
 
-- 👨‍💻 All of my projects are available at [[https://rahulkulhade.github.io/]]
+- 👨‍💻 All of my projects are available at [https://rahulkulhade.github.io/]
 
 - 💬 Ask me about **SDE**
 
